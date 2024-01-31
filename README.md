@@ -3,7 +3,7 @@
 Install Dependencies
 
 ```bash
-yarn dev
+yarn
 ```
 
 Run the development server:
